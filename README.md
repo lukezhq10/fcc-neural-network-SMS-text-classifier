@@ -1,5 +1,6 @@
 # Neural Network SMS Text Classifier
 This includes the Neural Network SMS Text Classifier project from FreeCodeCamp under the Machine Learning with Python course @ https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier
+
 Tensorflow tutorial on Text Classification RNNs was used as a reference @ https://www.tensorflow.org/text/tutorials/text_classification_rnn
 
 # Project Description
